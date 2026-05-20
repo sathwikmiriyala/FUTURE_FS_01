@@ -28,7 +28,7 @@ It is designed with a clean responsive layout using **HTML, CSS, and JavaScript*
 - Projects showcase with equal‑sized cards and detailed descriptions  
 - Contact section with form and quick info box  
 - Smooth scrolling effects  
-- Dark blue theme with Light headlines and golden hover highlights  
+- Dark blue theme with Light blue headlines and golden hover highlights  
 
 
 ---
